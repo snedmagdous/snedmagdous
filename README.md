@@ -20,12 +20,6 @@ Currently leading full-stack development at a pre-seed startup, building AI-powe
 
 **Tools & Cloud:** Git • Docker • Kubernetes • AWS • CI/CD
 
-## 🚀 Current Focus
-
-- 🏥 Leading product development for AI-powered diagnostic tools
-- 📊 Building data science projects that drive social change
-- 🔬 Researching algorithmic bias and computational approaches to equity
-
 ## 🌱 Background
 
 Cornell CS graduate with interdisciplinary experience across computer science, computational genomics, and mission-driven research. I've conducted international fieldwork in Ecuador, Cambodia, and Mexico, and worked at PwC, NAIC, and multiple research institutions (UPenn, UMiami, Princeton, UMD). Beyond code, I'm a muralist,documentary filmmaker, and avid lifter!
