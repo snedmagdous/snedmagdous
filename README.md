@@ -24,7 +24,7 @@ Currently leading development at [PainTrust Technologies](https://paintrust.com)
 
 ## 🌱 Background
 
-Cornell CS graduate with interdisciplinary experience across computer science, computational genomics, and mission-driven research. I've conducted international fieldwork in Ecuador, Cambodia, and Mexico, and worked at PwC, NAIC, and multiple research institutions. Beyond code, I'm a documentary filmmaker, muralist, and D1 athlete.
+Cornell CS graduate with interdisciplinary experience across computer science, computational genomics, and mission-driven research. I've conducted international fieldwork in Ecuador, Cambodia, and Mexico, and worked at PwC, NAIC, and multiple research institutions. Beyond code, I'm a documentary filmmaker, muralist, and artist.
 
 **What drives me:** Technology should serve the collective, not just maximize profit. My work bridges technical implementation with social impact—from healthcare equity to financial inclusion to policy-informed data science.
 
