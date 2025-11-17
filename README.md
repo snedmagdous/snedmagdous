@@ -22,7 +22,7 @@ Currently leading full-stack development at a pre-seed startup, building AI-powe
 
 ## 🌱 Background
 
-Cornell CS graduate with interdisciplinary experience across computer science, computational genomics, and mission-driven research. I've conducted international fieldwork in Ecuador, Cambodia, and Mexico, and worked at PwC, NAIC, and multiple research institutions (UPenn, UMiami, Princeton, UMD). Beyond code, I'm a muralist,documentary filmmaker, and avid lifter!
+Cornell CS graduate with interdisciplinary experience across computer science, computational genomics, and mission-driven research. I've conducted international fieldwork in Ecuador, Cambodia, and Mexico, and worked at PwC, NAIC, and multiple research institutions (UPenn, UMiami, Princeton, UMD). Beyond code, I'm a muralist, documentary filmmaker, and avid lifter!
 
 **What drives me:** Technology should serve the collective, not just maximize profit. My work bridges technical implementation with social impact—from healthcare equity to financial inclusion to policy-informed data science.
 
