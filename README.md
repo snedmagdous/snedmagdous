@@ -1,4 +1,4 @@
-# Hi, I'm Maya Murry ᪥ 𓁙 ᪥
+# Hi, I'm Maya Murry ᪥ 𓁙
 
 **Full-Stack Developer | Cornell CS '25 | Building Technology for Social Impact**
 
