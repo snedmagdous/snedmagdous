@@ -1,10 +1,10 @@
-# Hi, I'm Maya Murry ᪥
+# Hi, I'm Maya Murry ᪥ 𓁙 ᪥
 
 **Full-Stack Developer | Cornell CS '25 | Building Technology for Social Impact**
 
 Currently leading full-stack development at a pre-seed startup, building AI-powered healthcare solutions that address bias in pain assessment. I combine full-stack engineering with data science to create technology that dismantles systemic inequities.
 
-## 💻 Tech Stack 🖮 🖰 🖫︎
+## 💻 Tech Stack 
 
 **Languages:** Python (8 yrs) • TypeScript/JavaScript • R • SQL • HTML5/CSS3 • Java • C
 
@@ -20,7 +20,7 @@ Currently leading full-stack development at a pre-seed startup, building AI-powe
 
 **Tools & Cloud:** Git • Docker • Kubernetes • AWS • CI/CD
 
-## 🪴 Background 𓁈
+## 🪴 Background 
 
 Cornell CS graduate with interdisciplinary experience across computer science, computational genomics, and mission-driven research. I've conducted international fieldwork in Ecuador, Cambodia, and Mexico, and worked at PwC, NAIC, and multiple research institutions (UPenn, UMiami, Princeton, UMD). Beyond code, I'm a muralist, documentary filmmaker, and avid lifter!
 
