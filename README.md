@@ -2,11 +2,11 @@
 
 **AI & Full-Stack Engineer | Cornell CS '25 | Specializing in Agentic Workflows**
 
-Currently building production-grade AI agents at **Simbie AI** (YC W25). I specialize in designing agentic workflows, prompt optimization, and RAG systems that bridge the gap between "vibe coding" and robust, scalable software. My mission is to build intelligent systems that solve high-stakes problems in healthcare and beyond.
+Currently building production-grade AI agents at **Simbie AI** (YC S23). I specialize in designing agentic workflows, prompt optimization, and RAG systems that bridge the gap between "vibe coding" and robust, scalable software. My mission is to build intelligent systems that solve high-stakes problems in healthcare and beyond.
 
 ## 🛠️ Tech Stack 
 
-**AI / LLM Ops:** Agentic Workflows • Tool-Calling (Function Calling) • Prompt Engineering • RAG • LLM Evaluation • LangChain • Azure OpenAI • Vertex AI
+**AI / LLM Ops:** Agentic Workflows • Tool-Calling • Prompt Engineering • RAG • LLM Evaluation • LangChain • Azure OpenAI • Vertex AI
 
 **Backend & Data:** Python (8 yrs) • Node.js • FastAPI • TypeScript • PostgreSQL (PostGIS) • Redis • Vector Databases
 
@@ -17,7 +17,7 @@ Currently building production-grade AI agents at **Simbie AI** (YC W25). I speci
 ## 🪴 Professional Focus
 
 * **Simbie AI (YC W25):** Orchestrating complex AI agent tool-use for healthcare administration and real-time data routing.
-* **Architecting AI:** Passionate about building "Human-in-the-Loop" systems and determining when to use deterministic algorithms vs. LLMs.
+* **Architecting AI:** Passionate about "Human-in-the-Loop" systems and determining when deterministic algorithm use vs. LLMs.
 * **Research Background:** Published research in privacy-preserving AI, algorithmic bias, and facial recognition (UPenn, UMD).
 
 ## ☎️ Connect With Me
