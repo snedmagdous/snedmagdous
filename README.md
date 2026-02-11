@@ -1,31 +1,30 @@
 # Hi, I'm Maya Murry ᪥ 𓁙
 
-**Full-Stack Developer | Cornell CS '25 | Building Technology for Social Impact**
+**AI & Full-Stack Engineer | Cornell CS '25 | Specializing in Agentic Workflows**
 
-Currently leading full-stack development at a pre-seed startup, building AI-powered healthcare solutions that address bias in pain assessment. I combine full-stack engineering with data science to create technology that dismantles systemic inequities.
+Currently building production-grade AI agents at **Simbie AI** (YC W25). I specialize in designing agentic workflows, prompt optimization, and RAG systems that bridge the gap between "vibe coding" and robust, scalable software. My mission is to build intelligent systems that solve high-stakes problems in healthcare and beyond.
 
-## 💻 Tech Stack 
+## 🛠️ Tech Stack 
 
-**Languages:** Python (8 yrs) • TypeScript/JavaScript • R • SQL • HTML5/CSS3 • Java • C
+**AI / LLM Ops:** Agentic Workflows • Tool-Calling (Function Calling) • Prompt Engineering • RAG • LLM Evaluation • LangChain • Azure OpenAI • Vertex AI
 
-**Frontend:** React • TypeScript • React Native • React Hooks • GraphQL • Angular
+**Backend & Data:** Python (8 yrs) • Node.js • FastAPI • TypeScript • PostgreSQL (PostGIS) • Redis • Vector Databases
 
-**Backend:** Node.js • Python (Django/Flask/FastAPI) • RESTful APIs
+**Frontend:** React • React Native • TypeScript • Tailwind CSS
 
-**AI/ML:** Azure OpenAI • LangChain • TensorFlow • PyTorch • NLP • Computer Vision
+**Languages:** Python • TypeScript/JavaScript • SQL • R • Java • C/C++
 
-**Data Science:** Pandas • NumPy • Scikit-learn • Statistical Modeling • Data Visualization
+## 🪴 Professional Focus
 
-**Databases:** PostgreSQL • MongoDB • MySQL
+* **Simbie AI (YC W25):** Orchestrating complex AI agent tool-use for healthcare administration and real-time data routing.
+* **Architecting AI:** Passionate about building "Human-in-the-Loop" systems and determining when to use deterministic algorithms vs. LLMs.
+* **Research Background:** Published research in privacy-preserving AI, algorithmic bias, and facial recognition (UPenn, UMD).
 
-**Tools & Cloud:** Git • Docker • Kubernetes • AWS • CI/CD
-
-## 🪴 Background 
-
-Cornell CS graduate with interdisciplinary experience across computer science, computational genomics, and mission-driven research. I've conducted international fieldwork in Ecuador, Cambodia, and Mexico, and worked at PwC, NAIC, and multiple research institutions (UPenn, UMiami, Princeton, UMD). Beyond code, I'm a muralist, documentary filmmaker, and avid lifter!
-
-## ☎️ Connect With Me ✆︎
+## ☎️ Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maya-murry)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayamurry.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mayamurry.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maya.khalil2022@gmail.com)
+
+---
+*Muralist, documentary filmmaker, and avid lifter.*
