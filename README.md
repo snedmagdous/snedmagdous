@@ -16,7 +16,7 @@ Currently building production-grade AI agents at **Simbie AI** (YC S23). I speci
 
 ## 🪴 Professional Focus
 
-* **Simbie AI (YC W25):** Orchestrating complex AI agent tool-use for healthcare administration and real-time data routing.
+* **Simbie:** Orchestrating complex AI agent tool-use for healthcare administration and real-time data routing.
 * **Architecting AI:** Passionate about "Human-in-the-Loop" systems and determining when deterministic algorithm use vs. LLMs.
 * **Research Background:** Published research in privacy-preserving AI, algorithmic bias, and facial recognition (UPenn, UMD).
 
